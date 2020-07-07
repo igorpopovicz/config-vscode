@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/vscode.ico">
+  <img src="public/vscode.ico" width="100">
   <br>
     Minhas Configurações VSCode
 </h1>
