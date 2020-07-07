@@ -4,10 +4,6 @@
     Minhas Configurações VSCode
 </h1>
 
-<p align="center">
-    <a href="#memo-license">License</a>
-</p>
-
 ## 📃 About
 <p>
 My vscode configuration updated 2020.
@@ -23,17 +19,9 @@ My vscode configuration updated 2020.
 ```bash
 
   #Clonar o repositório
-  $ git clone https://github.com/pedrozez/inventory-management
+  $ git clone https://github.com/pedrozez/config-vscode.git
 
-  # Entrar no diretório
-  $ cd inventory-management
-
-  # Instalar as dependências ( npm ou yarn )
-  $ yarn
-
-  # Iniciar o projeto
-  $ yarn start
-
+  # Copie e o conteudo do arquivo settings.json e cole nas prefereces/settings.json do seu VSCode
 ```
 ---
 
